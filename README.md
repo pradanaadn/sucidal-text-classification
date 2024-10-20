@@ -1,7 +1,3 @@
-Here is a draft for your `README.md` file based on the presentation content:
-
----
-
 # Suicidal Intent Classification Using Sentiment Analysis
 
 This project focuses on detecting suicidal intent based on sentiment analysis of social media content. Given the increasing rates of mental health issues among adolescents in Indonesia, this system aims to contribute to mental health monitoring by classifying content that indicates suicidal tendencies.
